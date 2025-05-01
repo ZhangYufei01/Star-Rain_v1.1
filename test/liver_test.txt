@@ -1,0 +1,14 @@
+{
+    "xlxs_path": "E:/Scientific_work/1Liver_cancer/9star_rain_v1.1/test/",
+    "xlxs_file": "liver_test.xlsx",
+    "json_path": "E:/Scientific_work/1Liver_cancer/9star_rain_v1.1/test/",
+    "json_file": "liver_test.json",
+    "txt_path": "E:/Scientific_work/1Liver_cancer/9star_rain_v1.1/test/",
+    "txt_file": "liver_test.txt",
+    "img_path": "E:/Scientific_work/1Liver_cancer/9star_rain_v1.1/test_data/",
+    "img_file": [
+        "liver_8.nii.gz",
+        "liver_70.nii.gz",
+        "liver_126.nii.gz"
+    ]
+}

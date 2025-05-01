@@ -1,0 +1,35 @@
+{
+    "2D_grow": {
+        "threshold_2D": 5.0,
+        "auto_adjust_threshold": true,
+        "multiplier_ranges": {
+            "-inf:-62.650000000000006": 0.1,
+            "-62.65:-41.26": 2.5,
+            "-41.25:-19.87": 2,
+            "-19.86:1.52": 1.5,
+            "1.53:44.30": 1.0,
+            "44.31:65.69": 0.7,
+            "65.70:87.08": 0.5,
+            "87.09:108.47": 0.3,
+            "108.48:inf": 0.1
+        },
+        "grow_with_more_seeds": true,
+        "threshold_more_seeds": 21.39,
+        "seed_distance": 10,
+        "Add_disturbance": false,
+        "threshold_diameter": 80,
+        "upper": 87.08,
+        "lower": -41.260000000000005,
+        "min_diameter": 10
+    },
+    "3D_grow": {
+        "threshold_3D": 20.0,
+        "use_pixdim_information_3D": false,
+        "use_vertical_grow_3D": true,
+        "pixdim_coefficient_3D": 0.4
+    },
+    "gray_value_information": {
+        "mean": 22.91,
+        "std_dev": 21.39
+    }
+}
